@@ -7,9 +7,9 @@ namespace ContagemRegressiva
         static void Main(string[] args)
         {
             Console.WriteLine("Preparar...");
-            Console.ReadLine();
+            Console.ReadKey();
             Console.WriteLine("Apontar...");
-            Console.ReadLine();
+            Console.ReadKey();
             Console.WriteLine("FOGO!");
         }
     }
